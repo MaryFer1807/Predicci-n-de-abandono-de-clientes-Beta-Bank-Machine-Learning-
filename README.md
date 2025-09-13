@@ -1,0 +1,2 @@
+# Predicci-n-de-abandono-de-clientes-Beta-Bank-Machine-Learning-
+Proyecto de machine learning para la compañía Beta Bank con el objetivo de predecir el abandono de clientes. Se desarrolló un modelo de clasificación supervisada (árboles de decisión, random forest y gradient boosting), alcanzando un valor F1 > 0.59 y comparando con AUC-ROC. El proyecto incluyó análisis exploratorio, balanceo de clases.
